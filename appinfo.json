@@ -1,0 +1,21 @@
+{
+    "versionLabel": "1.0",
+    "uuid": "6f2f2225-31ba-4247-8849-6cc7f9563eb3",
+    "appKeys": {
+        "status": 0,
+        "message": 1
+    },
+    "longName": "test",
+    "versionCode": 1,
+    "capabilities": [
+        ""
+    ],
+    "shortName": "test",
+    "companyName": "buie.andrew@gmail.com",
+    "watchapp": {
+        "watchface": false
+    },
+    "resources": {
+        "media": []
+    }
+}
