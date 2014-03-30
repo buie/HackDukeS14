@@ -1,0 +1,18 @@
+{
+    "versionLabel": "1.0",
+    "uuid": "57a6eda4-5517-4555-881b-ab1f1168795d",
+    "appKeys": {},
+    "longName": "drawTextTest",
+    "versionCode": 1,
+    "capabilities": [
+        ""
+    ],
+    "shortName": "drawTextTest",
+    "companyName": "buie.andrew@gmail.com",
+    "watchapp": {
+        "watchface": false
+    },
+    "resources": {
+        "media": []
+    }
+}
