@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+
+    <!-- App Name -->
+    <string name="app_name">LiveCC</string>
+    <!-- Used as the voice trigger to launch the app -->
+    <string name="memo">Start Closed Captioning</string>
+    <!-- Placeholder text for the text in the live card -->
+    <string name="hello_world">Your text</string>
+    <!-- Used in the menu for the live card. Launches into the CardScrollView -->
+    <string name="view_memos">View text</string>
+    <!-- Used in the menus -->
+    <string name="close">Close</string>
+    <!-- Key to get the memos in shared preferences -->
+    <string name="shared_memo_key">memo</string>
+    <!-- Used in the menu for the cards in the CardScrollView -->
+    <string name="delete_memo">Delete text</string>
+    <string name="read_aloud">Read aloud</string>
+
+    <string-array name="string_array_name">
+        <item>text_string1</item>
+        <item>text_string2</item>
+        <item>text_string3</item>
+        <item>text_string4</item>
+    </string-array>
+
+</resources>
